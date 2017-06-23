@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/section1/section1.iml" filepath="$PROJECT_DIR$/section1/section1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section1-firstapp/section1-firstapp.iml" filepath="$PROJECT_DIR$/section1-firstapp/section1-firstapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section2-scala/section2-scala.iml" filepath="$PROJECT_DIR$/section2-scala/section2-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section3-spark/section3-spark.iml" filepath="$PROJECT_DIR$/section3-spark/section3-spark.iml" />
     </modules>
   </component>
 </project>

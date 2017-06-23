@@ -7,10 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="section1" />
+        <module name="section1-firstapp" />
+        <module name="section2-scala" />
+        <module name="section3-spark" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="section1" target="1.5" />
+      <module name="section1-firstapp" target="1.5" />
+      <module name="section2-scala" target="1.5" />
+      <module name="section3-spark" target="1.5" />
+      <module name="sparkscala" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
