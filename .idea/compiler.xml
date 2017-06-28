@@ -6,17 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="advancedspark" />
         <module name="section1" />
         <module name="section1-firstapp" />
         <module name="section2-scala" />
         <module name="section3-spark" />
+        <module name="section4-advancedspark" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="advancedspark" target="1.5" />
       <module name="section1" target="1.5" />
       <module name="section1-firstapp" target="1.5" />
       <module name="section2-scala" target="1.5" />
       <module name="section3-spark" target="1.5" />
+      <module name="section4-advancedspark" target="1.5" />
       <module name="sparkscala" target="1.5" />
     </bytecodeTargetLevel>
   </component>

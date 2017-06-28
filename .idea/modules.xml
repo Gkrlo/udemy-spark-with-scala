@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/section1-firstapp/section1-firstapp.iml" filepath="$PROJECT_DIR$/section1-firstapp/section1-firstapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/section2-scala/section2-scala.iml" filepath="$PROJECT_DIR$/section2-scala/section2-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/section3-spark/section3-spark.iml" filepath="$PROJECT_DIR$/section3-spark/section3-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section4-advancedspark/section4-advancedspark.iml" filepath="$PROJECT_DIR$/section4-advancedspark/section4-advancedspark.iml" />
     </modules>
   </component>
 </project>
