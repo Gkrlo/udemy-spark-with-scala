@@ -1,5 +1,3 @@
-package com.sundogsoftware.spark
-
 import org.apache.spark._
 import org.apache.spark.SparkContext._
 import org.apache.log4j._
@@ -9,7 +7,7 @@ import scala.io.Codec
 
 /** Find the movies with the most ratings. */
 object PopularMoviesNicer {
-  
+
   /** Load up a Map of movie IDs to movie names. */
   def loadMovieNames() : Map[Int, String] = {
     
@@ -34,7 +32,7 @@ object PopularMoviesNicer {
  
   /** Our main function where the action happens */
   def main(args: Array[String]) {
-   
+
     // Set the log level to only print errors
     Logger.getLogger("org").setLevel(Level.ERROR)
     

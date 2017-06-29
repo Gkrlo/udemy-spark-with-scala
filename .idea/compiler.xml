@@ -12,6 +12,7 @@
         <module name="section2-scala" />
         <module name="section3-spark" />
         <module name="section4-advancedspark" />
+        <module name="section6-sparksql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="section2-scala" target="1.5" />
       <module name="section3-spark" target="1.5" />
       <module name="section4-advancedspark" target="1.5" />
+      <module name="section6-sparksql" target="1.5" />
       <module name="sparkscala" target="1.5" />
     </bytecodeTargetLevel>
   </component>
