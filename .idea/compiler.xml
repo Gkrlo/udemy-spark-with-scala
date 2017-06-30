@@ -13,6 +13,8 @@
         <module name="section3-spark" />
         <module name="section4-advancedspark" />
         <module name="section6-sparksql" />
+        <module name="section7-sparkmllib" />
+        <module name="section8-sparkstreaming" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +25,8 @@
       <module name="section3-spark" target="1.5" />
       <module name="section4-advancedspark" target="1.5" />
       <module name="section6-sparksql" target="1.5" />
+      <module name="section7-sparkmllib" target="1.5" />
+      <module name="section8-sparkstreaming" target="1.5" />
       <module name="sparkscala" target="1.5" />
     </bytecodeTargetLevel>
   </component>

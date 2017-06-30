@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/section1-firstapp/pom.xml" />
         <option value="$PROJECT_DIR$/section4-advancedspark/pom.xml" />
         <option value="$PROJECT_DIR$/section6-sparksql/pom.xml" />
+        <option value="$PROJECT_DIR$/section7-sparkmllib/pom.xml" />
+        <option value="$PROJECT_DIR$/section8-sparkstreaming/pom.xml" />
       </list>
     </option>
   </component>

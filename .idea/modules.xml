@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/section3-spark/section3-spark.iml" filepath="$PROJECT_DIR$/section3-spark/section3-spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/section4-advancedspark/section4-advancedspark.iml" filepath="$PROJECT_DIR$/section4-advancedspark/section4-advancedspark.iml" />
       <module fileurl="file://$PROJECT_DIR$/section6-sparksql/section6-sparksql.iml" filepath="$PROJECT_DIR$/section6-sparksql/section6-sparksql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section7-sparkmllib/section7-sparkmllib.iml" filepath="$PROJECT_DIR$/section7-sparkmllib/section7-sparkmllib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section8-sparkstreaming/section8-sparkstreaming.iml" filepath="$PROJECT_DIR$/section8-sparkstreaming/section8-sparkstreaming.iml" />
     </modules>
   </component>
 </project>
